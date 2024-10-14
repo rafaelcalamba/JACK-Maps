@@ -1,0 +1,177 @@
+{
+"classname" "worldspawn"
+"defaultteam" "0"
+"newunit" "0"
+"gametitle" "0"
+"startdark" "0"
+"MaxRange" "4096"
+"sounds" "1"
+"origin" "0 0 0"
+"mapversion" "220"
+"wad" "\Games\Xash3D\valve\halflife.wad;\Games\Xash3D\valve\liquids.wad;\Games\Xash3D\valve\xeno.wad;\Games\Xash3D\valve\decals.wad;\Program Files\J.A.C.K\custom\vluzacn\tools\zhlt.wad;\Program Files\J.A.C.K\custom\nw\nw.wad;\Program Files\J.A.C.K\custom\nw\nw_xeno.wad"
+"_generator" "J.A.C.K. 1.1.1064 (vpHalfLife)"
+}
+{
+"classname" "func_detail"
+"zhlt_clipnodedetaillevel" "1"
+"zhlt_coplanarpriority" "0"
+"zhlt_chopup" "0"
+"zhlt_chopdown" "0"
+"zhlt_detaillevel" "1"
+{
+( -182 8 104 ) ( -182 8 88 ) ( -182 248 104 ) SOLIDHINT [ -0 1 0 -6 ] [ -0 0 -1 0 ] 0 1 1
+( 74 248 104 ) ( 74 248 88 ) ( 74 8 104 ) SOLIDHINT [ -0 1 0 -6 ] [ -0 0 -1 0 ] 0 1 1
+( 74 8 104 ) ( 74 8 88 ) ( -182 8 104 ) SOLIDHINT [ -1 -0 0 10 ] [ -0 0 -1 0 ] 0 1 1
+( -182 248 104 ) ( -182 248 88 ) ( 74 248 104 ) SOLIDHINT [ -1 -0 0 10 ] [ -0 0 -1 0 ] 0 1 1
+( 74 248 104 ) ( 74 8 104 ) ( -182 248 104 ) SOLIDHINT [ -0 1 0 -6 ] [ 1 0 0 -10 ] 0 1 1
+( -182 8 88 ) ( 74 8 88 ) ( -182 248 88 ) BABTECH_CEIL01 [ -0 1 0 -8.53333 ] [ 1 0 0 -10 ] 0 0.9375 1
+}
+}
+{
+"classname" "func_detail"
+"zhlt_clipnodedetaillevel" "1"
+"zhlt_coplanarpriority" "0"
+"zhlt_chopup" "0"
+"zhlt_chopdown" "0"
+"zhlt_detaillevel" "1"
+{
+( 74 248 88 ) ( 74 264 88 ) ( 74 248 -40 ) SOLIDHINT [ 0 -0 -1 16 ] [ -0 1 -0 -0 ] 0 1 1
+( -182 248 -40 ) ( -182 264 -40 ) ( -182 248 88 ) SOLIDHINT [ 0 -0 -1 16 ] [ -0 1 -0 -0 ] 0 1 1
+( -182 248 88 ) ( 74 248 88 ) ( -182 248 -40 ) -0BABTECH7 [ 1 0 -0 -74 ] [ -0 0 -1 88 ] 0 1 1
+( 74 264 -40 ) ( 74 264 88 ) ( -182 264 -40 ) SOLIDHINT [ -1 -0 0 10 ] [ -0 0 1 8 ] 0 1 1
+( 74 248 -40 ) ( 74 264 -40 ) ( -182 248 -40 ) SOLIDHINT [ -1 -0 0 12 ] [ -0 1 -0 -0 ] 0 1 1
+( -182 248 88 ) ( -182 264 88 ) ( 74 248 88 ) SOLIDHINT [ -1 -0 0 12 ] [ -0 1 -0 -0 ] 0 1 1
+}
+}
+{
+"classname" "func_detail"
+"zhlt_clipnodedetaillevel" "1"
+"zhlt_coplanarpriority" "0"
+"zhlt_chopup" "0"
+"zhlt_chopdown" "0"
+"zhlt_detaillevel" "1"
+{
+( 74 8 -40 ) ( 74 -8 -40 ) ( 74 8 88 ) SOLIDHINT [ -0 0 -1 -0 ] [ 0 -1 -0 0 ] 0 1 1
+( -182 8 88 ) ( -182 -8 88 ) ( -182 8 -40 ) SOLIDHINT [ -0 0 -1 -0 ] [ 0 -1 -0 0 ] 0 1 1
+( -182 -8 -40 ) ( -182 -8 88 ) ( 74 -8 -40 ) SOLIDHINT [ 1 0 0 -8 ] [ 0 -0 1 0 ] 0 1 1
+( 74 8 88 ) ( -182 8 88 ) ( 74 8 -40 ) -0BABTECH7 [ -1 -0 0 74 ] [ -0 0 -1 88 ] 0 1 1
+( 74 8 88 ) ( 74 -8 88 ) ( -182 8 88 ) SOLIDHINT [ 1 0 0 -8 ] [ 0 -1 -0 0 ] 0 1 1
+( -182 8 -40 ) ( -182 -8 -40 ) ( 74 8 -40 ) SOLIDHINT [ 1 0 0 -8 ] [ 0 -1 -0 0 ] 0 1 1
+}
+}
+{
+"classname" "func_detail"
+"zhlt_clipnodedetaillevel" "1"
+"zhlt_coplanarpriority" "0"
+"zhlt_chopup" "0"
+"zhlt_chopdown" "0"
+"zhlt_detaillevel" "1"
+{
+( 74 8 -40 ) ( 74 64 -40 ) ( 74 8 -72 ) SOLIDHINT [ -0 1 0 -8 ] [ -0 0 -1 -7 ] 0 1 1
+( -182 8 -72 ) ( -182 80 -72 ) ( -182 8 -40 ) SOLIDHINT [ 0 -1 0 12 ] [ -0 0 -1 -7 ] 0 1 1
+( 74 8 -72 ) ( -182 8 -72 ) ( 74 8 -40 ) SOLIDHINT [ 1 0 0 -10 ] [ -0 0 -1 0 ] 0 1 1
+( 74 80 -72 ) ( -182 80 -72 ) ( 74 8 -72 ) SOLIDHINT [ 0 -1 0 8 ] [ -1 -0 0 10 ] 0 1 1
+( 74 8 -40 ) ( -182 8 -40 ) ( 74 64 -40 ) -0BABTECH_FLR10 [ -0 1 0 -9.14282 ] [ 1 0 0 -10 ] 0 0.875 1
+( 74 64 -40 ) ( -182 64 -40 ) ( 74 80 -72 ) ~TRACKLITE [ -1 -0 0 10 ] [ -0 0.447214 -0.894427 -0.398705 ] 0 1 1
+}
+}
+{
+"classname" "func_detail"
+"zhlt_clipnodedetaillevel" "1"
+"zhlt_coplanarpriority" "0"
+"zhlt_chopup" "0"
+"zhlt_chopdown" "0"
+"zhlt_detaillevel" "1"
+{
+( -182 248 -40 ) ( -182 192 -40 ) ( -182 248 -72 ) SOLIDHINT [ 0 -1 0 8 ] [ -0 0 -1 -7 ] 0 1 1
+( 74 248 -72 ) ( 74 176 -72 ) ( 74 248 -40 ) SOLIDHINT [ -0 1 0 -4 ] [ -0 0 -1 -7 ] 0 1 1
+( -182 248 -72 ) ( 74 248 -72 ) ( -182 248 -40 ) SOLIDHINT [ -1 -0 0 10 ] [ -0 0 -1 0 ] 0 1 1
+( -182 176 -72 ) ( 74 176 -72 ) ( -182 248 -72 ) SOLIDHINT [ -0 1 0 -8 ] [ 1 0 0 -10 ] 0 1 1
+( -182 248 -40 ) ( 74 248 -40 ) ( -182 192 -40 ) -0BABTECH_FLR10 [ -0 1 0 -27.4286 ] [ 1 0 0 -10 ] 0 0.875 1
+( -182 192 -40 ) ( 74 192 -40 ) ( -182 176 -72 ) ~TRACKLITE [ 1 0 -0 -10 ] [ 0 -0.447214 -0.894427 18.0881 ] 0 1 1
+}
+}
+{
+"classname" "func_detail"
+"zhlt_clipnodedetaillevel" "1"
+"zhlt_coplanarpriority" "0"
+"zhlt_chopup" "0"
+"zhlt_chopdown" "0"
+"zhlt_detaillevel" "1"
+{
+( -182 144 -72 ) ( -182 144 -84 ) ( -182 176 -72 ) SOLIDHINT [ -0 1 0 -9 ] [ -0 0 -1 0 ] 0 1 1
+( 74 176 -72 ) ( 74 176 -84 ) ( 74 144 -72 ) SOLIDHINT [ -0 1 0 -9 ] [ -0 0 -1 0 ] 0 1 1
+( -182 144 -72 ) ( 74 144 -72 ) ( -182 144 -84 ) SOLIDHINT [ -1 -0 0 10 ] [ -0 0 -1 0 ] 0 1 1
+( -182 176 -84 ) ( 74 176 -84 ) ( -182 176 -72 ) SOLIDHINT [ -1 -0 0 10 ] [ -0 0 -1 0 ] 0 1 1
+( 74 144 -72 ) ( -182 144 -72 ) ( 74 176 -72 ) CON1_WALL01P [ -0 1 0 -4.66664 ] [ 1 0 0 -74 ] 0 1.5 1
+( -182 144 -84 ) ( 74 144 -84 ) ( -182 176 -84 ) SOLIDHINT [ -0 1 0 -9 ] [ 1 0 0 -10 ] 0 1 1
+}
+}
+{
+"classname" "func_detail"
+"zhlt_clipnodedetaillevel" "1"
+"zhlt_coplanarpriority" "0"
+"zhlt_chopup" "0"
+"zhlt_chopdown" "0"
+"zhlt_detaillevel" "1"
+{
+( 74 112 -72 ) ( 74 112 -84 ) ( 74 80 -72 ) SOLIDHINT [ 0 -1 0 7 ] [ -0 0 -1 0 ] 0 1 1
+( -182 80 -72 ) ( -182 80 -84 ) ( -182 112 -72 ) SOLIDHINT [ 0 -1 0 7 ] [ -0 0 -1 0 ] 0 1 1
+( 74 112 -72 ) ( -182 112 -72 ) ( 74 112 -84 ) SOLIDHINT [ 1 0 0 -10 ] [ -0 0 -1 0 ] 0 1 1
+( 74 80 -84 ) ( -182 80 -84 ) ( 74 80 -72 ) SOLIDHINT [ 1 0 0 -10 ] [ -0 0 -1 0 ] 0 1 1
+( -182 112 -72 ) ( 74 112 -72 ) ( -182 80 -72 ) CON1_WALL01P [ 0 -1 0 38 ] [ -1 -0 0 74 ] 0 1.5 1
+( 74 112 -84 ) ( -182 112 -84 ) ( 74 80 -84 ) SOLIDHINT [ 0 -1 0 7 ] [ -1 -0 0 10 ] 0 1 1
+}
+}
+{
+"classname" "func_detail"
+"zhlt_clipnodedetaillevel" "1"
+"zhlt_coplanarpriority" "0"
+"zhlt_chopup" "0"
+"zhlt_chopdown" "0"
+"zhlt_detaillevel" "1"
+{
+( -182 112 -56 ) ( -182 112 -84 ) ( -182 144 -56 ) SOLIDHINT [ -0 1 0 -4 ] [ -0 0 -1 0 ] 0 1 1
+( 74 144 -56 ) ( 74 144 -84 ) ( 74 112 -56 ) SOLIDHINT [ -0 1 0 -4 ] [ -0 0 -1 0 ] 0 1 1
+( -182 112 -56 ) ( 74 112 -56 ) ( -182 112 -84 ) GENERIC115 [ -1 -0 0 74 ] [ -0 0 -1 19 ] 0 1 1
+( -182 144 -84 ) ( 74 144 -84 ) ( -182 144 -56 ) GENERIC115 [ -1 -0 0 74 ] [ -0 0 -1 19 ] 0 1 1
+( 74 112 -56 ) ( -182 112 -56 ) ( 74 144 -56 ) CON1_WALL01P [ -0 1 0 -0 ] [ 1 0 0 -74 ] 0 1 1
+( -182 112 -84 ) ( 74 112 -84 ) ( -182 144 -84 ) SOLIDHINT [ -0 1 0 -4 ] [ 1 0 0 -10 ] 0 1 1
+}
+}
+{
+"classname" "info_curve"
+"m2c_p_cornerfix" "0"
+"m2c_p_evenout" "0"
+"m2c_p_split" "0"
+"m2c_p_reverse" "0"
+"m2c_INFO_3" "1 -180 180"
+"m2c_d_draw_rand" "0"
+"m2c_d_separate" "0"
+"m2c_d_autoname" "0"
+"m2c_d_autopitch" "0"
+"m2c_d_autoyaw" "0"
+"m2c_d_circlemode" "0"
+"m2c_d_carve" "0"
+"m2c_d_enable" "0"
+"m2c_d_autoassign" "0"
+"m2c_ramptex" "0"
+"m2c_transit_round" "0"
+"m2c_transit_tri" "0"
+"m2c_gaps" "0"
+"m2c_skipnull" "0"
+"m2c_bounds" "0"
+"m2c_tri" "0"
+"m2c_round" "0"
+"m2c_obj" "0"
+"m2c_map" "0"
+"m2c_rmf" "0"
+"m2c_c_enable" "0"
+"m2c_texmode" "0"
+"m2c_ramp" "0"
+"m2c_heightmode" "0"
+"m2c_shift" "0"
+"m2c_flatcircle" "0"
+"m2c_type" "0"
+"origin" "58 -8 104"
+}

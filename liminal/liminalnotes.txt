@@ -1,0 +1,4 @@
+HEVless flashlight
+disable jump
+trigger_maxspeed
+trigger_fov

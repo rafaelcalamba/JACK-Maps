@@ -1,0 +1,129 @@
+{
+"classname" "worldspawn"
+"defaultteam" "0"
+"newunit" "0"
+"gametitle" "0"
+"startdark" "0"
+"MaxRange" "4096"
+"sounds" "1"
+"mapversion" "220"
+"wad" "\Program Files\J.A.C.K\custom\unclemike\tools\zhlt.wad;\Games\Xash3D\valve\decals.wad;\Games\Xash3D\valve\halflife.wad;\Games\Xash3D\valve\liquids.wad;\Games\Xash3D\valve\xeno.wad;\Program Files\J.A.C.K\custom\editor.wad"
+"_generator" "J.A.C.K. 1.1.1064 (vpHalfLife)"
+{
+( 544 512 192 ) ( 544 512 0 ) ( 544 -512 192 ) NULL [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 512 -512 192 ) ( 512 -512 0 ) ( 512 512 192 ) C1A0_WX [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 544 -512 192 ) ( 544 -512 0 ) ( 512 -512 192 ) NULL [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 512 512 192 ) ( 512 512 0 ) ( 544 512 192 ) NULL [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 544 -512 192 ) ( 512 -512 192 ) ( 544 512 192 ) NULL [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 512 512 0 ) ( 512 -512 0 ) ( 544 512 0 ) NULL [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( -512 512 192 ) ( -512 512 0 ) ( -512 -512 192 ) C1A0_WX [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -544 -512 192 ) ( -544 -512 0 ) ( -544 512 192 ) NULL [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -512 -512 192 ) ( -512 -512 0 ) ( -544 -512 192 ) NULL [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -544 512 192 ) ( -544 512 0 ) ( -512 512 192 ) NULL [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -512 -512 192 ) ( -544 -512 192 ) ( -512 512 192 ) NULL [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -544 512 0 ) ( -544 -512 0 ) ( -512 512 0 ) NULL [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( 512 544 192 ) ( 512 544 0 ) ( 512 512 192 ) NULL [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -512 512 192 ) ( -512 512 0 ) ( -512 544 192 ) NULL [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 512 512 192 ) ( 512 512 0 ) ( -512 512 192 ) C1A0_WX [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -512 544 192 ) ( -512 544 0 ) ( 512 544 192 ) NULL [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 512 512 192 ) ( -512 512 192 ) ( 512 544 192 ) NULL [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -512 544 0 ) ( -512 512 0 ) ( 512 544 0 ) NULL [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( 512 -512 192 ) ( 512 -512 0 ) ( 512 -544 192 ) NULL [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -512 -544 192 ) ( -512 -544 0 ) ( -512 -512 192 ) NULL [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 512 -544 192 ) ( 512 -544 0 ) ( -512 -544 192 ) NULL [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -512 -512 192 ) ( -512 -512 0 ) ( 512 -512 192 ) C1A0_WX [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 512 -544 192 ) ( -512 -544 192 ) ( 512 -512 192 ) NULL [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -512 -512 0 ) ( -512 -544 0 ) ( 512 -512 0 ) NULL [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( 512 512 224 ) ( 512 512 192 ) ( 512 -512 224 ) NULL [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -512 -512 224 ) ( -512 -512 192 ) ( -512 512 224 ) NULL [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 512 -512 224 ) ( 512 -512 192 ) ( -512 -512 224 ) NULL [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -512 512 224 ) ( -512 512 192 ) ( 512 512 224 ) NULL [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 512 -512 224 ) ( -512 -512 224 ) ( 512 512 224 ) NULL [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -512 512 192 ) ( -512 -512 192 ) ( 512 512 192 ) C2A4E_W1 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( 512 512 0 ) ( 512 512 -32 ) ( 512 -512 0 ) NULL [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -512 -512 0 ) ( -512 -512 -32 ) ( -512 512 0 ) NULL [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 512 -512 0 ) ( 512 -512 -32 ) ( -512 -512 0 ) NULL [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -512 512 0 ) ( -512 512 -32 ) ( 512 512 0 ) NULL [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 512 -512 0 ) ( -512 -512 0 ) ( 512 512 0 ) C1A0_LABFLRC [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -512 512 -32 ) ( -512 -512 -32 ) ( 512 512 -32 ) NULL [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+}
+}
+{
+"classname" "info_player_start"
+"angles" "0 0 0"
+"origin" "-384 0 37"
+}
+{
+"classname" "light"
+"_falloff" "0"
+"_fade" "1.0"
+"style" "0"
+"_light" "255 255 128 200"
+"light" "255 255 128 200"
+"origin" "0 0 153.6"
+}
+{
+"classname" "monster_barnacle"
+"model" "models/barnacle.mdl"
+"zhlt_studioshadow" "1"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"zhlt_copylight" "lighten"
+"origin" "-9.53674e-007 -32 191.335"
+}
+{
+"classname" "monster_bloater"
+"model" "models/floater.mdl"
+"effects" "16"
+"zhlt_studioshadow" "1"
+"TriggerCondition" "0"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"zhlt_copylight" "lighten"
+"origin" "0 0 0"
+}
+{
+"classname" "monster_rat"
+"model" "models/rat.mdl"
+"effects" "16"
+"zhlt_studioshadow" "1"
+"TriggerCondition" "0"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"zhlt_copylight" "lighten"
+"origin" "0 -16 0"
+}
+{
+"classname" "monster_sentry"
+"model" "models/sentry.mdl"
+"effects" "16"
+"zhlt_studioshadow" "1"
+"spawnflags" "0"
+"TriggerCondition" "0"
+"angles" "0 0 0"
+"rendercolor" "0 0 0"
+"rendermode" "0"
+"renderfx" "0"
+"zhlt_copylight" "lighten"
+"origin" "-4.76837e-007 -40 0"
+}
+{
+"classname" "info_null"
+"targetname" "lighten"
+"origin" "24 -15 0"
+}

@@ -1,0 +1,14 @@
+{
+"classname" "worldspawn"
+"defaultteam" "0"
+"newunit" "0"
+"gametitle" "0"
+"startdark" "0"
+"MaxRange" "4096"
+"sounds" "1"
+"origin" "0 0 0"
+"mapversion" "220"
+"wad" "\Games\Xash3D\valve\halflife.wad;\Games\Xash3D\valve\liquids.wad;\Games\Xash3D\valve\xeno.wad;\Games\Xash3D\valve\decals.wad;\Program Files\J.A.C.K\custom\vluzacn\tools\zhlt.wad;\Program Files\J.A.C.K\custom\nw\nw.wad;\Program Files\J.A.C.K\custom\nw\nw_xeno.wad"
+"_generator" "J.A.C.K. 1.1.1064 (vpHalfLife)"
+}
+
